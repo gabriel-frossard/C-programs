@@ -1,0 +1,15 @@
+README
+
+Objectif: 
+
+Le but de ce TP est de comprendre le fonctionnement client/serveur. De plus nous avons appris comment fonctionner avec 2 terminaux pour l'exectuion d'un coté de la partie serveur et de l'autre de la partie client.
+
+
+
+Bibliothèques: Nous avons utilisé stdio.h, math.h, stdlib.h, string.h, ainsi que les fichiers headers .h crée pour chaque fonction. 
+
+Références: Nous avons fait la moitié des exercices en séances, nous avons posés des questions aux intervenants, à nos collègues de classes et sur différents sites internet.
+
+Difficultés: Le système de client serveur a été difficile à comprendre dans un premier temps. En effet ce mode de fonctionnement que nous avons utilisé pour la première fois lors de ce tp n'a pas été facile à assimiler.
+
+Commentaires: Nous étions 2 débutants de la programmation en C et ce TP nous a permis de comprendre le fonctionnement client/serveur et le fait que l'un répond à la requete de l'autre.

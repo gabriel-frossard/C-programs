@@ -1,0 +1,27 @@
+INSTALL
+
+Exercice 1 : Cet exercice n'a posé aucun problème, car nous devions juste utiliser sizeof.
+
+Exercice 2 : On définit dans un premier temps une variable taille qui permet de definir la taille du tableau souhaité ( on aura pas besoin de changer à chaque fois la variable à chaque fois qu'elle est utilisée), on parcourt notre tableau et on met dans chaque case un noùbre entre 0 et 199, on verifie en meme temps si ce nombre est le plus petit ou le plus grand. les val de min et max on été initialisé de manière à obtenir de toute facon une valeur qui soit dans le tableau.
+
+Exercice 3 : Nous avons utilisé le tri par insertion que l'un d'entre nous avait vu au lycée. Ce n'est pas le plus efficace mais il est facile à coder.
+
+
+Exercice 4 : on réutilise le programme de l'exo2, on prend un nombre aléatoire, on parcourt le tableau de 100 valeurs en comparant le nombre aléatoire généré avec la valeur de chaque case du tableau, si la valeur est présente au moins une fois, la variable ok est mise à 1, si à la fin de la booucle for, la variable ok est égale à 1 alors on affiche que le nombre est présent dans le tableau. (on ne le print pas directement sinon cela afficherait la phrase à chaque fois que le nombre est présent dans le tableau et sur un tableau de 100 valeurs, il peut en avoir beaucoup !).
+
+
+Exercice 5 : Dans cet éxo nous avons du utiliser la recherche dichotomique. Nous avons repris en grande partie le code de l'éxo 3.
+
+
+Exercice 6 : Pour chaque type de variables, on effectue le même processus qui affiche le nombre d'octets de la variable.
+
+
+Exercice 7 : Cet éxercice nous a fait utiliser strcmp et aussi la structure d'un exo du TP2. Ce programme marche mais au bout du quatrième test de couleur, le progamme bug et compte un nombre invraisemblable de couleur.
+
+
+Exercice 8 : dans un premier temps on demande une phrase avec un scanf, on compare ensuite avec 2 boucle for dans un premier temps chaque caractere de la phrase donnée avec ceux de la première phrase puis avec ceux de la deuxieme,... si jamais tous les caractères correspondent la phrase est dans le tableau. 
+notre programme ne fonctionne que avec un mot, nous ne comprenons pas pourquoi à partir du moment ou il y a un espace il ne reconnait plus la chaine de caractère dans sa totalité.
+
+
+tous les exercices ont été compilés via la commande suivante sur le terminal ubuntu :
+gcc fichier.c -Wextra -Wall -o fichier

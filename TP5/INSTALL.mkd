@@ -1,0 +1,24 @@
+INSTALL
+
+Exercice 1,2,3 : repertoire. 
+Nous avons réalisé les différentes tâches demandées lors de ces 3 exercices. les programmes commentées permettent d'expliquer les démarches utilisées.
+
+
+
+Exercice 4,5 : client.
+Après avoir téléchargé les fichiers sur ecampus, nous avons tenté de comprendre le fonctionnement de ceux-ci. 
+Nous avons ensuite effectué et commenté les fonctions demandées.
+
+
+
+
+
+
+
+
+
+
+tous les exercices ont été compilés via la commande suivante sur le terminal ubuntu :
+gcc fichier.c -Wextra -Wall -o fichier
+
+Attention : Ne pas oublier de complier tous les fichiers .c utilisé dans la ligne de commande gcc

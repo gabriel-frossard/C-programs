@@ -1,0 +1,22 @@
+README
+
+Objectif: 
+
+Le but de ce TP est d'utiliser les instructions de base en C,
+à compiler et à exécuter nos progammes depuis le terminal sur linux.
+Nous nous sommes donc familiarisés avec la déclaration de variables,
+signées ou non, et avec l'utilisation de boucles et des sorties de boucles.
+Nous nous sommes de plus familiarisés avec les tableaux, les structures et les pointeurs.
+
+
+
+
+Bibliothèques: Nous avons utilisé stdio.h, math.h, stdlib.h, string.h, ainsi que les fichiers headers .h crée pour chaque fonction. 
+
+Références: Nous avons fait la moitié des exercices en séances, nous avons posés des questions aux intervenants, à nos collègues de classes et sur différents sites internet.
+
+Difficultés: Dans un premier temps nous avons eu des difficultés à comprendre le fonctionnement des fichiers headers et quel fichier il fallait appeller à quelle moment. Au départ nous appellions les fichier .c dans le main.c car nous ne les compillions pas au même moment que le fichier main.c. Par la suite nous avons compris la bonne maniere et quand appeler chaque fichier.
+
+
+Commentaires: Nous étions 2 débutants de la programmation en C et ce TP nous a permis de comprendr ele fonctionnement des fichiers headers qui permettent d'appeler des fonctions et donc de séparer les diéfférentes partie de code d'une production pour la rendre beaucoup plus lisible. 
+Etant donné que nous sommes toujours débutant nous n'avons pas eu le temps de traiter le dernière exercice (pour le moment).

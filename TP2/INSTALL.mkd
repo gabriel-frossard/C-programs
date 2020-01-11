@@ -1,0 +1,29 @@
+INSTALL
+
+Exercice 1 : l'objectif de cet exercice et de mettre un nombre a à la puissance d'un second nombre b, nous avons  pour cela utilisé une boucle for.
+
+
+Exercice 2 : Nous avons utilisé un masque pour comparer notre nombre binaire au nombre binaire ayant le 4eme et 20eme bit à 1.
+
+
+Exercice 3 : Nous avons utilisé une boucle for et la formule de la suite de fibonacci pour réaliser ce programme qui renvoie n termes de la suite de fibonacci suivant le n demandé.
+
+
+Exercice 4 : Nous avaons utilisé des variables char ainsi que des boucles for pour effectuer les 3 questions.
+ 
+
+Exercice 5 : Nous avons rentrés les noms prenoms adresses et nots des 5 etudiants puis nous les avons affiché de manière à avoir les informations de chaque etudiant sur une ligne.
+
+
+Exercice 6 : Meme affichage que l'exercice 5 mais ici le but de l'exercice est d'utiliser les structures ainsi que strcpy.
+
+Exercice 7 : Nous avons utilisé à nous les structures et unsigned char pour effectuer un tableaux de différents couleurs écrites dans leurs notations hexadécimales.
+
+Exercice 8 : 
+
+
+Exercice 9 :
+
+
+tous les exercices ont été compilés via la commande suivante sur le terminal ubuntu :
+gcc fichier.c -Wextra -Wall -o fichier

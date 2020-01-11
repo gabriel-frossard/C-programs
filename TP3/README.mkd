@@ -1,0 +1,24 @@
+README
+
+Objectif: 
+
+Le but de ce TP est d'utiliser les instructions de base en C,
+à compiler et à exécuter nos progammes depuis le terminal sur linux.
+Nous nous sommes donc familiarisés avec la déclaration de variables,
+signées ou non, et avec l'utilisation de boucles et des sorties de boucles.
+Nous nous sommes de plus familiarisés avec les tableaux, les structures et les pointeurs.
+
+
+
+Fichiers: exo3_1.c, tri.c, 
+
+Bibliothèques: Nous avons utilisé stdio.h et math.h
+
+Références: Nous avons fait 2/3 des exercices en séances, nous avons posés des questions aux intervenants, à nos collègues de classes et nous nous sommes aidés de différents sites internet.
+
+Difficultés: Nous avons dans un premier temps eu des difficultés dans la conception et la réalisation des tableaux, la synthaxe à opérer et le fait que nous ne pouvons pas les afficher (comme dans l'exercice couleurs.c)
+
+
+
+Commentaires: Nous étions 2 débutants de la programmation en C et ce TP nous a permis
+de découvrir certains aspects du language qui peuvent paraître différents des autres languages mais qui ont quelques similitudes.

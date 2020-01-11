@@ -1,0 +1,38 @@
+INSTALL
+
+Exercice 1 : Composé de 3 fichiers : operator.h, operator.c, main.c.
+operator.h est le fichier header qui comprends les prototypes des différentes opérations que l'on souhaite effectuer. Tandis que operator.c est le fichier source qui permet d'effectuer les diffférentes opérations. Le fichier main lui contient le code principal et fait appelle au fichier operator.h pour effectuer les différentes opérations. Cette méthode permet dans le cas d'un programme long de séprarer les fonctions du code principal et donc de rendre la production beaucoup plus claire.
+
+
+Exercice 2 : Composé de 3 fichiers : fichier.h, fichier.c, main_fichier.c.
+Fichier.h et fichier.c permettent d'ouvrir et de lire (et d'écrire aussi) un fichier test.txt. Le fichier principal permet d'utiliser les fonctions déclarées dans les 2 fichiers précédents.
+
+
+Exercice 3 : fichier etudiant_db.c 
+on utilise des struct et on fait appelle à fichier.h pour pouvoir lire et ecrire un fichier etudiant.txt
+Ensuite on demande avec des scanf les infortmations pour les 5 etudiants (comme dans le tp précédents) on affiche ensuite le contenu ecrit dans le fichier etudiant.txt
+Rq : le fichier etudiant.txt est présent dans le dossier source poiur n,e pas avoir de probleme au niveau de l'exécution du code par l'enseignant.
+
+
+Exercice 4 : Composé de 3 fichiers operator.h, operator.c, calcule.c.
+Apres avoir compilé les fichiers .c on appelle de la maniere suivante ./calcule 'operateur' numero1 numero2. Attention : si l'on en marque pas un argument dans la ligne de commande nous aurons une erreur de segmentation qui signifie que le terminal plante car il ne comprend pas l'action demandé vu qu'il lui manque un argument.
+
+
+
+Exercice 5 : L'exercice a été testé mais pas rendu car pas de codé apporté, toutefois le principe de fonction recursive a été compris.
+
+
+Exercice 6 : chercherfichier.c.
+Probleme au niveau de l'exécution du fichier qui ne fait rien, pas eu le temps de demandé des informations concernant ce problème en séance car exercice traité à la maison.
+
+
+Exercice 7 : Nous n'avons pas eu le temps de traiter cette exercice aussi bien en séance qu'après.
+
+
+
+
+
+tous les exercices ont été compilés via la commande suivante sur le terminal ubuntu :
+gcc fichier.c -Wextra -Wall -o fichier
+
+Attention : Ne pas oublier de complier tous les fichiers .c utilisé dans la ligne de commande gcc
